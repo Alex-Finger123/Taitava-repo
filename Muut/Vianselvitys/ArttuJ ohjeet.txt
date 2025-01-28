@@ -1,0 +1,8 @@
+- Chrome oudolla kielellä = vaihda kieli chromen asetuksista
+- työpöydän kuvakkeitta ei pysty siirtämään = M2 työpöydällä -> View -> auto arrange icons
+- Chromessa kaikkien kuvien ja videoiden kohdalla on joku ihme kuva. = Trollface everywhere chrome extension
+- Tietokoneen kaikki sovellukset ja muu ulkoasu on musta ja omituisen värinen. = ALT + Shift + prnt scrn
+- Taskbar on vasemassa reunassa ja halutaan se keskelle. Myös taskbarin haku kuvake on hukassa = Settings -> Personalization -> Taskbar -> Taskbar behaviors
+- Youtube video alkaa pyörimään startupissa.  = Taskmanager -> startup apps - > disable chrome proxy
+- Kursorin vieressä on latauskuvake kokajan. = 
+- Sputnik käyttäjää ei näy = Computer management -> Local users and Groups -> Users -> Sputnik -> Disable account pois

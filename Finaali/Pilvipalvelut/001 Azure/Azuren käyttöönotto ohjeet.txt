@@ -1,0 +1,30 @@
+https://azure.microsoft.com/en-us/free/students/
+tai googlaa "Azure trial student"
+Klikkaa start free painiketta
+Kirjaudu edu.hyria.fi tunnuksilla
+
+Anna Country code ja puhelinnumerosi, valitse Text Me
+Saat puhelimeesi tekstiviestin, syötä se nettisivulle
+
+Osoite: Sakonkatu 1
+Kaupunki: RIihimäki
+Postal code: 11130
+
+I agree to subscription
+
+Sign up
+
+Odota hetken aikaa, kun nettisivu pyörii
+
+Siirryt Microsoft Azure Education sivulle
+Valitse Azure Free services
+
+Vasemmasta yläkulmasta "3 viivaa valikko"
+Nyt pääset eteenpäin ja voit aloittaa tehtävien tekemisen perjantaina.
+
+Siirry osoitteeseen portal.azure.com
+########
+KUN SAAT TÄMÄN TEHDYKSI, NÄYTÄ JALLULLE!!!
+########
+Tee kirjanmerkki osoitteeseen portal.azure.com
+Samaa osoitetta käytetään myös etäpäivinä Azuren hallintaan.
